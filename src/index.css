@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.active {
+    color: #000;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;  
+}
