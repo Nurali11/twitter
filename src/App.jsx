@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import HomeRoutes from './routes/HomeRoutes'
+import HomeRoutes from "./routes/Home";
 import Home from './pages/Home'
 import Login from './pages/Login'
 import { Context } from "./context/Context"
